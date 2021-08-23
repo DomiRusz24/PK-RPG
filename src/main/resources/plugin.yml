@@ -1,0 +1,6 @@
+name: PKRPG
+version: ${project.version}
+main: me.domirusz24.pkrpg.PKRPG
+depend: [ProjectKorra, WorldEdit, ProtocolLib, PlaceholderAPI]
+api-version: 1.16
+authors: [DomiRusz24]
